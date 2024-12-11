@@ -7,7 +7,7 @@ This project uses the [Runescape API](https://runescape.wiki/w/Application_progr
 
 
 
-<!-->
+<!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
