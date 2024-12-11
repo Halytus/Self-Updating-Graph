@@ -2,11 +2,17 @@
 layout: default
 ---
 
-This project uses the [Runescape API](https://runescape.wiki/w/Application_programming_interface) to pull the prices of items and display them on the line chart you will see below. 
+This project uses the [Runescape API](https://runescape.wiki/w/Application_programming_interface) to pull the prices of items and display them on the bar chart you will see below. 
+
+## This should update every day at 3PM!
 
 <iframe title="Runescape Item Prices in Gold" aria-label="Bar Chart" id="datawrapper-chart-oocVj" src="https://datawrapper.dwcdn.net/oocVj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="731" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
+## Here is the graph with the most egregious outliers removed.
+
+<iframe title="Runescape Item Prices in Gold no outliers" aria-label="Bar Chart" id="datawrapper-chart-oAELO" src="https://datawrapper.dwcdn.net/oAELO/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="712" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
